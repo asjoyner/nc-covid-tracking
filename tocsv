@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# This takes the JSON output by fetch, and converts it into CSV by county.
+# The output fields are County, Total, and Deaths:
+# "Alamance",0,0
+# "Alexander",0,0
+# "Alleghany",0,0
+# ...
+
+# The incoming JSON data looks like this:
+# {
+#   "attributes" : {
+#     "County" : "Forsyth",
+#     "Total" : 2,
+#     "Deaths" : 0
+#   }
+# },
+
+# Find the 3 lines after "attributes"
+grep -A3 '"attributes"' |\
+  # discard the attributes and grep separator lines
+  egrep -v '"attributes"|^--' |\
+  # remove the field names, up to the colon and trailing space
+  sed -e 's/.*: //' |\
+  # Join two additional lines (N;N;), and drop all the whitespace
+  sed 'N;N;s/\r\n/ /g;s/ //g' |\
+  sort
