@@ -1,0 +1,6 @@
+#!/bin/bash
+
+TODAY=$(date --rfc-3339=date)
+JSON="data/${TODAY}.json"
+./fetch > "${JSON}"
+cat "${JSON}" | ./tocsv > "data/${TODAY}.csv"
