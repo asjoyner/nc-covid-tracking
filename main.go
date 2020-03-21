@@ -6,6 +6,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"net/http"
@@ -18,6 +19,11 @@ const (
 	// COVID19URL returns JSON encoded data from the NC DHHS about COVID-19 cases
 	// and deaths, by county
 	COVID19URL = "https://services.arcgis.com/iFBq2AW9XO0jYYF7/arcgis/rest/services/NCCovid19/FeatureServer/0/query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=County%2C+Total%2C+Deaths&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=102100&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=true&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=0&resultRecordCount=4000&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=%7B%22mode%22%3A%22view%22%2C%22originPosition%22%3A%22upperLeft%22%2C%22tolerance%22%3A0.26458386250105853%2C%22extent%22%3A%7B%22xmin%22%3A-84.32161913499993%2C%22ymin%22%3A33.834368624000035%2C%22xmax%22%3A-75.45998072699996%2C%22ymax%22%3A36.58841470600004%2C%22spatialReference%22%3A%7B%22wkid%22%3A4326%2C%22latestWkid%22%3A4326%7D%7D%7D&sqlFormat=none&f=pjson&token="
+)
+
+var (
+	filename = flag.String("filename", "", "Parse JSON from this filename")
+	flagURL  = flag.String("url", COVID19URL, "If filename is not provided, fetch JSON from this URL.")
 )
 
 // This code extracts the attributes field from the JSON returned at COVID19URL
@@ -43,16 +49,38 @@ type countyData struct {
 	Deaths int
 }
 
-func main() {
-	resp, err := http.Get(COVID19URL)
+func getJSON(url string) ([]byte, error) {
+	resp, err := http.Get(url)
 	if err != nil {
 		glog.Fatalf("fetching URL: %s\n", err)
 	}
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 
+	return body, nil
+}
+
+func main() {
+	flag.Parse()
+
+	var js []byte
+	var err error
+	if *filename != "" {
+		fmt.Println("Reading from: ", *filename)
+		js, err = ioutil.ReadFile(*filename)
+		if err != nil {
+			glog.Fatalf("%s\n", err)
+		}
+	} else {
+		fmt.Println("Fetching from URL: ", *flagURL)
+		js, err = getJSON(*flagURL)
+		if err != nil {
+			glog.Fatalf("%s\n", err)
+		}
+	}
+
 	var cj covidJSON
-	if err := json.Unmarshal(body, &cj); err != nil {
+	if err := json.Unmarshal(js, &cj); err != nil {
 		glog.Fatalf("%s\n", err)
 	}
 
