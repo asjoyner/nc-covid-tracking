@@ -2,5 +2,10 @@
 
 TODAY=$(date --rfc-3339=date)
 JSON="data/${TODAY}.json"
+CSV="data/${TODAY}.csv"
 ./fetch > "${JSON}"
-cat "${JSON}" | ./tocsv > "data/${TODAY}.csv"
+cat "${JSON}" | ./tocsv > "${CSV}"
+
+git add "${JSON}" "${CSV}"
+git commit -m "Add today's data."
+
