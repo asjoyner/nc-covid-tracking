@@ -6,6 +6,5 @@ CSV="data/${TODAY}.csv"
 ./fetch > "${JSON}"
 cat "${JSON}" | ./tocsv > "${CSV}"
 
-git add "${JSON}" "${CSV}"
-git commit -m "Add today's data."
-
+git commit -m "Add today's data." "${JSON}" "${CSV}"
+git push
