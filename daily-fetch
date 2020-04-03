@@ -1,10 +1,11 @@
 #!/bin/bash
 
-TODAY=$(date --rfc-3339=date)
-JSON="data/${TODAY}.json"
-CSV="data/${TODAY}.csv"
-./fetch > "${JSON}"
-cat "${JSON}" | ./tocsv > "${CSV}"
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-git commit -m "Add today's data." "${JSON}" "${CSV}"
-git push
+TODAY=$(date --rfc-3339=date)
+JSON="${DIR}/data/${TODAY}.json"
+CSV="${DIR}/data/${TODAY}.csv"
+${DIR}/fetch > "${JSON}"
+cat "${JSON}" | ${DIR}/tocsv > "${CSV}"
+
+git -C "${DIR}" commit -m "Add today's data." "${JSON}" "${CSV}" && git -C "${DIR}" push
