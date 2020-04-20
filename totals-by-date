@@ -1,0 +1,13 @@
+#!/bin/bash
+# update the CSV of daily total counts
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+DDIR=${DIR}/data
+cp ${DIR}/early-totals.csv ${DIR}/totals-by-date.csv
+for file in $(ls ${DDIR}); do
+  if [[ "${file}" == *".json" ]]; then
+    continue
+  fi
+  date=${file%.csv}
+  total=$(cut -f 2 -d, "data/${file}" | xargs | sed -e 's/ / + /g' | bc -q)
+  echo "$date,$total" >> ${DIR}/totals-by-date.csv
+done
