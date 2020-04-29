@@ -52,21 +52,21 @@
     {
       "attributes" : {
         "County" : "Rockingham", 
-        "Total" : 24, 
+        "Total" : 25, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Guilford", 
-        "Total" : 318, 
-        "Deaths" : 20
+        "Total" : 357, 
+        "Deaths" : 21
       }
     }, 
     {
       "attributes" : {
         "County" : "Alamance", 
-        "Total" : 92, 
+        "Total" : 95, 
         "Deaths" : 1
       }
     }, 
@@ -80,21 +80,21 @@
     {
       "attributes" : {
         "County" : "Randolph", 
-        "Total" : 154, 
+        "Total" : 168, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Wayne", 
-        "Total" : 641, 
+        "Total" : 645, 
         "Deaths" : 10
       }
     }, 
     {
       "attributes" : {
         "County" : "Ashe", 
-        "Total" : 4, 
+        "Total" : 5, 
         "Deaths" : 0
       }
     }, 
@@ -108,7 +108,7 @@
     {
       "attributes" : {
         "County" : "Currituck", 
-        "Total" : 2, 
+        "Total" : 5, 
         "Deaths" : 0
       }
     }, 
@@ -122,7 +122,7 @@
     {
       "attributes" : {
         "County" : "Surry", 
-        "Total" : 12, 
+        "Total" : 13, 
         "Deaths" : 0
       }
     }, 
@@ -136,7 +136,7 @@
     {
       "attributes" : {
         "County" : "Hertford", 
-        "Total" : 32, 
+        "Total" : 34, 
         "Deaths" : 1
       }
     }, 
@@ -157,56 +157,56 @@
     {
       "attributes" : {
         "County" : "Warren", 
-        "Total" : 6, 
+        "Total" : 7, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Vance", 
-        "Total" : 80, 
-        "Deaths" : 4
+        "Total" : 84, 
+        "Deaths" : 6
       }
     }, 
     {
       "attributes" : {
         "County" : "Granville", 
-        "Total" : 133, 
+        "Total" : 136, 
         "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Caswell", 
-        "Total" : 18, 
-        "Deaths" : 0
-      }
-    }, 
-    {
-      "attributes" : {
-        "County" : "Person", 
         "Total" : 19, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
+        "County" : "Person", 
+        "Total" : 20, 
+        "Deaths" : 1
+      }
+    }, 
+    {
+      "attributes" : {
         "County" : "Pasquotank", 
-        "Total" : 35, 
+        "Total" : 36, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Halifax", 
-        "Total" : 52, 
+        "Total" : 55, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Wilkes", 
-        "Total" : 22, 
+        "Total" : 26, 
         "Deaths" : 1
       }
     }, 
@@ -220,7 +220,7 @@
     {
       "attributes" : {
         "County" : "Perquimans", 
-        "Total" : 12, 
+        "Total" : 13, 
         "Deaths" : 0
       }
     }, 
@@ -241,7 +241,7 @@
     {
       "attributes" : {
         "County" : "Yadkin", 
-        "Total" : 15, 
+        "Total" : 16, 
         "Deaths" : 1
       }
     }, 
@@ -255,14 +255,14 @@
     {
       "attributes" : {
         "County" : "Forsyth", 
-        "Total" : 179, 
+        "Total" : 194, 
         "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Franklin", 
-        "Total" : 102, 
+        "Total" : 100, 
         "Deaths" : 18
       }
     }, 
@@ -276,21 +276,21 @@
     {
       "attributes" : {
         "County" : "Orange", 
-        "Total" : 209, 
-        "Deaths" : 14
+        "Total" : 217, 
+        "Deaths" : 15
       }
     }, 
     {
       "attributes" : {
         "County" : "Durham", 
-        "Total" : 702, 
-        "Deaths" : 16
+        "Total" : 708, 
+        "Deaths" : 15
       }
     }, 
     {
       "attributes" : {
         "County" : "Nash", 
-        "Total" : 82, 
+        "Total" : 87, 
         "Deaths" : 1
       }
     }, 
@@ -304,14 +304,14 @@
     {
       "attributes" : {
         "County" : "Edgecombe", 
-        "Total" : 76, 
-        "Deaths" : 3
+        "Total" : 81, 
+        "Deaths" : 4
       }
     }, 
     {
       "attributes" : {
         "County" : "Caldwell", 
-        "Total" : 33, 
+        "Total" : 32, 
         "Deaths" : 0
       }
     }, 
@@ -346,8 +346,8 @@
     {
       "attributes" : {
         "County" : "Wake", 
-        "Total" : 769, 
-        "Deaths" : 15
+        "Total" : 788, 
+        "Deaths" : 16
       }
     }, 
     {
@@ -367,15 +367,15 @@
     {
       "attributes" : {
         "County" : "Burke", 
-        "Total" : 89, 
+        "Total" : 93, 
         "Deaths" : 8
       }
     }, 
     {
       "attributes" : {
         "County" : "Davidson", 
-        "Total" : 166, 
-        "Deaths" : 5
+        "Total" : 160, 
+        "Deaths" : 7
       }
     }, 
     {
@@ -388,7 +388,7 @@
     {
       "attributes" : {
         "County" : "Chatham", 
-        "Total" : 274, 
+        "Total" : 287, 
         "Deaths" : 6
       }
     }, 
@@ -402,7 +402,7 @@
     {
       "attributes" : {
         "County" : "Buncombe", 
-        "Total" : 53, 
+        "Total" : 54, 
         "Deaths" : 4
       }
     }, 
@@ -416,28 +416,28 @@
     {
       "attributes" : {
         "County" : "Catawba", 
-        "Total" : 51, 
+        "Total" : 52, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Pitt", 
-        "Total" : 115, 
+        "Total" : 120, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Johnston", 
-        "Total" : 140, 
+        "Total" : 147, 
         "Deaths" : 12
       }
     }, 
     {
       "attributes" : {
         "County" : "Swain", 
-        "Total" : 0, 
+        "Total" : 3, 
         "Deaths" : 0
       }
     }, 
@@ -451,7 +451,7 @@
     {
       "attributes" : {
         "County" : "Hyde", 
-        "Total" : 0, 
+        "Total" : 1, 
         "Deaths" : 0
       }
     }, 
@@ -465,14 +465,14 @@
     {
       "attributes" : {
         "County" : "Rutherford", 
-        "Total" : 120, 
+        "Total" : 123, 
         "Deaths" : 4
       }
     }, 
     {
       "attributes" : {
         "County" : "Lee", 
-        "Total" : 127, 
+        "Total" : 142, 
         "Deaths" : 0
       }
     }, 
@@ -493,7 +493,7 @@
     {
       "attributes" : {
         "County" : "Harnett", 
-        "Total" : 145, 
+        "Total" : 151, 
         "Deaths" : 7
       }
     }, 
@@ -507,21 +507,21 @@
     {
       "attributes" : {
         "County" : "Henderson", 
-        "Total" : 155, 
-        "Deaths" : 16
+        "Total" : 159, 
+        "Deaths" : 18
       }
     }, 
     {
       "attributes" : {
         "County" : "Moore", 
-        "Total" : 69, 
+        "Total" : 71, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Montgomery", 
-        "Total" : 28, 
+        "Total" : 31, 
         "Deaths" : 1
       }
     }, 
@@ -542,14 +542,14 @@
     {
       "attributes" : {
         "County" : "Polk", 
-        "Total" : 17, 
+        "Total" : 19, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Lenoir", 
-        "Total" : 56, 
+        "Total" : 60, 
         "Deaths" : 3
       }
     }, 
@@ -584,14 +584,14 @@
     {
       "attributes" : {
         "County" : "Sampson", 
-        "Total" : 44, 
+        "Total" : 51, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Cumberland", 
-        "Total" : 218, 
+        "Total" : 223, 
         "Deaths" : 7
       }
     }, 
@@ -612,42 +612,42 @@
     {
       "attributes" : {
         "County" : "Carteret", 
-        "Total" : 28, 
+        "Total" : 27, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Union", 
-        "Total" : 211, 
+        "Total" : 228, 
         "Deaths" : 9
       }
     }, 
     {
       "attributes" : {
         "County" : "Anson", 
-        "Total" : 22, 
+        "Total" : 24, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Hoke", 
-        "Total" : 67, 
+        "Total" : 72, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Duplin", 
-        "Total" : 74, 
+        "Total" : 75, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Richmond", 
-        "Total" : 40, 
+        "Total" : 42, 
         "Deaths" : 2
       }
     }, 
@@ -668,28 +668,28 @@
     {
       "attributes" : {
         "County" : "Robeson", 
-        "Total" : 106, 
+        "Total" : 145, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Bladen", 
-        "Total" : 13, 
+        "Total" : 20, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Pender", 
-        "Total" : 10, 
+        "Total" : 11, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Columbus", 
-        "Total" : 94, 
+        "Total" : 102, 
         "Deaths" : 8
       }
     }, 
@@ -710,36 +710,36 @@
     {
       "attributes" : {
         "County" : "Iredell", 
-        "Total" : 102, 
+        "Total" : 105, 
         "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Rowan", 
-        "Total" : 353, 
+        "Total" : 366, 
         "Deaths" : 19
       }
     }, 
     {
       "attributes" : {
         "County" : "Lincoln", 
-        "Total" : 25, 
+        "Total" : 27, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Mecklenburg", 
-        "Total" : 1519, 
-        "Deaths" : 43
+        "Total" : 1567, 
+        "Deaths" : 44
       }
     }, 
     {
       "attributes" : {
         "County" : "Cabarrus", 
-        "Total" : 258, 
-        "Deaths" : 9
+        "Total" : 267, 
+        "Deaths" : 10
       }
     }, 
     {
