@@ -66,7 +66,7 @@
     {
       "attributes" : {
         "County" : "Alamance", 
-        "Total" : 238, 
+        "Total" : 236, 
         "Deaths" : 12
       }
     }, 
@@ -87,7 +87,7 @@
     {
       "attributes" : {
         "County" : "Wayne", 
-        "Total" : 911, 
+        "Total" : 910, 
         "Deaths" : 17
       }
     }, 
@@ -171,7 +171,7 @@
     {
       "attributes" : {
         "County" : "Granville", 
-        "Total" : 225, 
+        "Total" : 222, 
         "Deaths" : 6
       }
     }, 
@@ -276,7 +276,7 @@
     {
       "attributes" : {
         "County" : "Orange", 
-        "Total" : 298, 
+        "Total" : 291, 
         "Deaths" : 39
       }
     }, 
@@ -346,7 +346,7 @@
     {
       "attributes" : {
         "County" : "Wake", 
-        "Total" : 1346, 
+        "Total" : 1345, 
         "Deaths" : 32
       }
     }, 
@@ -591,7 +591,7 @@
     {
       "attributes" : {
         "County" : "Cumberland", 
-        "Total" : 525, 
+        "Total" : 524, 
         "Deaths" : 14
       }
     }, 
@@ -626,7 +626,7 @@
     {
       "attributes" : {
         "County" : "Anson", 
-        "Total" : 52, 
+        "Total" : 50, 
         "Deaths" : 0
       }
     }, 
@@ -640,7 +640,7 @@
     {
       "attributes" : {
         "County" : "Duplin", 
-        "Total" : 520, 
+        "Total" : 508, 
         "Deaths" : 12
       }
     }, 
@@ -668,7 +668,7 @@
     {
       "attributes" : {
         "County" : "Robeson", 
-        "Total" : 638, 
+        "Total" : 624, 
         "Deaths" : 6
       }
     }, 
@@ -689,7 +689,7 @@
     {
       "attributes" : {
         "County" : "Columbus", 
-        "Total" : 278, 
+        "Total" : 271, 
         "Deaths" : 21
       }
     }, 
