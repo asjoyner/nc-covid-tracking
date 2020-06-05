@@ -1,0 +1,11 @@
+
+{
+  "error" : 
+  {
+    "code" : 500, 
+    "message" : "Unauthorized access", 
+    "details" : [
+      "Unauthorized access"
+    ]
+  }
+}
