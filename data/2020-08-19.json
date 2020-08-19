@@ -52,56 +52,56 @@
     {
       "attributes" : {
         "County" : "Rockingham County", 
-        "Total" : 626, 
+        "Total" : 637, 
         "Deaths" : 6
       }
     }, 
     {
       "attributes" : {
         "County" : "Guilford County", 
-        "Total" : 6025, 
+        "Total" : 6069, 
         "Deaths" : 160
       }
     }, 
     {
       "attributes" : {
         "County" : "Alamance County", 
-        "Total" : 2681, 
-        "Deaths" : 42
+        "Total" : 2698, 
+        "Deaths" : 44
       }
     }, 
     {
       "attributes" : {
         "County" : "Alexander County", 
-        "Total" : 346, 
+        "Total" : 351, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Randolph County", 
-        "Total" : 2269, 
-        "Deaths" : 39
+        "Total" : 2280, 
+        "Deaths" : 40
       }
     }, 
     {
       "attributes" : {
         "County" : "Wayne County", 
-        "Total" : 2555, 
-        "Deaths" : 43
+        "Total" : 2583, 
+        "Deaths" : 44
       }
     }, 
     {
       "attributes" : {
         "County" : "Ashe County", 
-        "Total" : 175, 
+        "Total" : 177, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Alleghany County", 
-        "Total" : 181, 
+        "Total" : 182, 
         "Deaths" : 0
       }
     }, 
@@ -115,112 +115,112 @@
     {
       "attributes" : {
         "County" : "Camden County", 
-        "Total" : 79, 
+        "Total" : 82, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Surry County", 
-        "Total" : 1009, 
+        "Total" : 1019, 
         "Deaths" : 11
       }
     }, 
     {
       "attributes" : {
         "County" : "Gates County", 
-        "Total" : 58, 
+        "Total" : 60, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Hertford County", 
-        "Total" : 410, 
+        "Total" : 420, 
         "Deaths" : 12
       }
     }, 
     {
       "attributes" : {
         "County" : "Northampton County", 
-        "Total" : 321, 
+        "Total" : 320, 
         "Deaths" : 16
       }
     }, 
     {
       "attributes" : {
         "County" : "Stokes County", 
-        "Total" : 306, 
+        "Total" : 308, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Warren County", 
-        "Total" : 273, 
+        "Total" : 274, 
         "Deaths" : 6
       }
     }, 
     {
       "attributes" : {
         "County" : "Vance County", 
-        "Total" : 822, 
+        "Total" : 821, 
         "Deaths" : 41
       }
     }, 
     {
       "attributes" : {
         "County" : "Granville County", 
-        "Total" : 1364, 
+        "Total" : 1370, 
         "Deaths" : 29
       }
     }, 
     {
       "attributes" : {
         "County" : "Caswell County", 
-        "Total" : 203, 
+        "Total" : 205, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Person County", 
-        "Total" : 250, 
+        "Total" : 252, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Pasquotank County", 
-        "Total" : 458, 
+        "Total" : 464, 
         "Deaths" : 21
       }
     }, 
     {
       "attributes" : {
         "County" : "Halifax County", 
-        "Total" : 761, 
-        "Deaths" : 8
+        "Total" : 767, 
+        "Deaths" : 9
       }
     }, 
     {
       "attributes" : {
         "County" : "Wilkes County", 
-        "Total" : 920, 
-        "Deaths" : 18
+        "Total" : 933, 
+        "Deaths" : 19
       }
     }, 
     {
       "attributes" : {
         "County" : "Watauga County", 
-        "Total" : 348, 
+        "Total" : 349, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Perquimans County", 
-        "Total" : 93, 
+        "Total" : 94, 
         "Deaths" : 2
       }
     }, 
@@ -234,15 +234,15 @@
     {
       "attributes" : {
         "County" : "Avery County", 
-        "Total" : 110, 
+        "Total" : 113, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Yadkin County", 
-        "Total" : 579, 
-        "Deaths" : 6
+        "Total" : 584, 
+        "Deaths" : 7
       }
     }, 
     {
@@ -255,63 +255,63 @@
     {
       "attributes" : {
         "County" : "Forsyth County", 
-        "Total" : 5601, 
-        "Deaths" : 60
+        "Total" : 5620, 
+        "Deaths" : 62
       }
     }, 
     {
       "attributes" : {
         "County" : "Franklin County", 
-        "Total" : 934, 
+        "Total" : 942, 
         "Deaths" : 28
       }
     }, 
     {
       "attributes" : {
         "County" : "Bertie County", 
-        "Total" : 326, 
+        "Total" : 328, 
         "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Orange County", 
-        "Total" : 1514, 
-        "Deaths" : 48
+        "Total" : 1562, 
+        "Deaths" : 49
       }
     }, 
     {
       "attributes" : {
         "County" : "Durham County", 
-        "Total" : 6447, 
+        "Total" : 6461, 
         "Deaths" : 81
       }
     }, 
     {
       "attributes" : {
         "County" : "Nash County", 
-        "Total" : 1359, 
+        "Total" : 1378, 
         "Deaths" : 16
       }
     }, 
     {
       "attributes" : {
         "County" : "Mitchell County", 
-        "Total" : 80, 
+        "Total" : 82, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Edgecombe County", 
-        "Total" : 753, 
-        "Deaths" : 14
+        "Total" : 772, 
+        "Deaths" : 15
       }
     }, 
     {
       "attributes" : {
         "County" : "Caldwell County", 
-        "Total" : 1295, 
+        "Total" : 1296, 
         "Deaths" : 14
       }
     }, 
@@ -325,29 +325,29 @@
     {
       "attributes" : {
         "County" : "Yancey County", 
-        "Total" : 84, 
+        "Total" : 83, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Madison County", 
-        "Total" : 49, 
+        "Total" : 50, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Martin County", 
-        "Total" : 286, 
+        "Total" : 290, 
         "Deaths" : 7
       }
     }, 
     {
       "attributes" : {
         "County" : "Wake County", 
-        "Total" : 12847, 
-        "Deaths" : 185
+        "Total" : 12951, 
+        "Deaths" : 187
       }
     }, 
     {
@@ -360,140 +360,140 @@
     {
       "attributes" : {
         "County" : "Washington County", 
-        "Total" : 146, 
+        "Total" : 153, 
         "Deaths" : 4
       }
     }, 
     {
       "attributes" : {
         "County" : "Burke County", 
-        "Total" : 1720, 
+        "Total" : 1731, 
         "Deaths" : 27
       }
     }, 
     {
       "attributes" : {
         "County" : "Davidson County", 
-        "Total" : 1913, 
-        "Deaths" : 26
+        "Total" : 1933, 
+        "Deaths" : 30
       }
     }, 
     {
       "attributes" : {
         "County" : "McDowell County", 
-        "Total" : 720, 
+        "Total" : 729, 
         "Deaths" : 21
       }
     }, 
     {
       "attributes" : {
         "County" : "Chatham County", 
-        "Total" : 1372, 
+        "Total" : 1377, 
         "Deaths" : 55
       }
     }, 
     {
       "attributes" : {
         "County" : "Wilson County", 
-        "Total" : 1582, 
+        "Total" : 1584, 
         "Deaths" : 36
       }
     }, 
     {
       "attributes" : {
         "County" : "Buncombe County", 
-        "Total" : 2113, 
+        "Total" : 2135, 
         "Deaths" : 54
       }
     }, 
     {
       "attributes" : {
         "County" : "Haywood County", 
-        "Total" : 467, 
-        "Deaths" : 24
+        "Total" : 469, 
+        "Deaths" : 25
       }
     }, 
     {
       "attributes" : {
         "County" : "Catawba County", 
-        "Total" : 2288, 
+        "Total" : 2322, 
         "Deaths" : 35
       }
     }, 
     {
       "attributes" : {
         "County" : "Pitt County", 
-        "Total" : 2341, 
+        "Total" : 2350, 
         "Deaths" : 14
       }
     }, 
     {
       "attributes" : {
         "County" : "Johnston County", 
-        "Total" : 3461, 
+        "Total" : 3469, 
         "Deaths" : 47
       }
     }, 
     {
       "attributes" : {
         "County" : "Swain County", 
-        "Total" : 122, 
+        "Total" : 123, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Beaufort County", 
-        "Total" : 462, 
-        "Deaths" : 2
+        "Total" : 465, 
+        "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Hyde County", 
-        "Total" : 62, 
+        "Total" : 63, 
         "Deaths" : 0
       }
     }, 
     {
       "attributes" : {
         "County" : "Greene County", 
-        "Total" : 346, 
+        "Total" : 349, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Rutherford County", 
-        "Total" : 843, 
-        "Deaths" : 14
+        "Total" : 844, 
+        "Deaths" : 16
       }
     }, 
     {
       "attributes" : {
         "County" : "Lee County", 
-        "Total" : 1342, 
+        "Total" : 1345, 
         "Deaths" : 11
       }
     }, 
     {
       "attributes" : {
         "County" : "Cleveland County", 
-        "Total" : 1341, 
+        "Total" : 1358, 
         "Deaths" : 24
       }
     }, 
     {
       "attributes" : {
         "County" : "Jackson County", 
-        "Total" : 460, 
+        "Total" : 465, 
         "Deaths" : 7
       }
     }, 
     {
       "attributes" : {
         "County" : "Harnett County", 
-        "Total" : 1432, 
+        "Total" : 1447, 
         "Deaths" : 41
       }
     }, 
@@ -507,245 +507,245 @@
     {
       "attributes" : {
         "County" : "Henderson County", 
-        "Total" : 1575, 
-        "Deaths" : 58
+        "Total" : 1596, 
+        "Deaths" : 59
       }
     }, 
     {
       "attributes" : {
         "County" : "Moore County", 
-        "Total" : 1108, 
-        "Deaths" : 20
+        "Total" : 1117, 
+        "Deaths" : 21
       }
     }, 
     {
       "attributes" : {
         "County" : "Montgomery County", 
-        "Total" : 722, 
+        "Total" : 725, 
         "Deaths" : 16
       }
     }, 
     {
       "attributes" : {
         "County" : "Stanly County", 
-        "Total" : 1261, 
+        "Total" : 1276, 
         "Deaths" : 31
       }
     }, 
     {
       "attributes" : {
         "County" : "Transylvania County", 
-        "Total" : 164, 
+        "Total" : 175, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Polk County", 
-        "Total" : 184, 
+        "Total" : 188, 
         "Deaths" : 6
       }
     }, 
     {
       "attributes" : {
         "County" : "Lenoir County", 
-        "Total" : 649, 
+        "Total" : 672, 
         "Deaths" : 11
       }
     }, 
     {
       "attributes" : {
         "County" : "Craven County", 
-        "Total" : 792, 
-        "Deaths" : 19
+        "Total" : 798, 
+        "Deaths" : 22
       }
     }, 
     {
       "attributes" : {
         "County" : "Macon County", 
-        "Total" : 480, 
+        "Total" : 485, 
         "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Cherokee County", 
-        "Total" : 299, 
-        "Deaths" : 4
+        "Total" : 311, 
+        "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Pamlico County", 
-        "Total" : 74, 
-        "Deaths" : 1
+        "Total" : 75, 
+        "Deaths" : 2
       }
     }, 
     {
       "attributes" : {
         "County" : "Sampson County", 
-        "Total" : 1517, 
+        "Total" : 1523, 
         "Deaths" : 19
       }
     }, 
     {
       "attributes" : {
         "County" : "Cumberland County", 
-        "Total" : 3493, 
+        "Total" : 3528, 
         "Deaths" : 61
       }
     }, 
     {
       "attributes" : {
         "County" : "Clay County", 
-        "Total" : 76, 
+        "Total" : 77, 
         "Deaths" : 1
       }
     }, 
     {
       "attributes" : {
         "County" : "Jones County", 
-        "Total" : 113, 
+        "Total" : 118, 
         "Deaths" : 4
       }
     }, 
     {
       "attributes" : {
         "County" : "Carteret County", 
-        "Total" : 385, 
+        "Total" : 392, 
         "Deaths" : 5
       }
     }, 
     {
       "attributes" : {
         "County" : "Union County", 
-        "Total" : 3419, 
+        "Total" : 3475, 
         "Deaths" : 46
       }
     }, 
     {
       "attributes" : {
         "County" : "Anson County", 
-        "Total" : 381, 
+        "Total" : 384, 
         "Deaths" : 3
       }
     }, 
     {
       "attributes" : {
         "County" : "Hoke County", 
-        "Total" : 788, 
+        "Total" : 791, 
         "Deaths" : 12
       }
     }, 
     {
       "attributes" : {
         "County" : "Duplin County", 
-        "Total" : 2030, 
+        "Total" : 2037, 
         "Deaths" : 49
       }
     }, 
     {
       "attributes" : {
         "County" : "Richmond County", 
-        "Total" : 573, 
+        "Total" : 575, 
         "Deaths" : 9
       }
     }, 
     {
       "attributes" : {
         "County" : "Scotland County", 
-        "Total" : 448, 
-        "Deaths" : 6
+        "Total" : 470, 
+        "Deaths" : 7
       }
     }, 
     {
       "attributes" : {
         "County" : "Onslow County", 
-        "Total" : 1242, 
+        "Total" : 1254, 
         "Deaths" : 12
       }
     }, 
     {
       "attributes" : {
         "County" : "Robeson County", 
-        "Total" : 3067, 
+        "Total" : 3102, 
         "Deaths" : 56
       }
     }, 
     {
       "attributes" : {
         "County" : "Bladen County", 
-        "Total" : 658, 
+        "Total" : 659, 
         "Deaths" : 8
       }
     }, 
     {
       "attributes" : {
         "County" : "Pender County", 
-        "Total" : 705, 
+        "Total" : 708, 
         "Deaths" : 4
       }
     }, 
     {
       "attributes" : {
         "County" : "Columbus County", 
-        "Total" : 990, 
+        "Total" : 1003, 
         "Deaths" : 50
       }
     }, 
     {
       "attributes" : {
         "County" : "New Hanover County", 
-        "Total" : 2729, 
+        "Total" : 2736, 
         "Deaths" : 21
       }
     }, 
     {
       "attributes" : {
         "County" : "Brunswick County", 
-        "Total" : 1326, 
+        "Total" : 1330, 
         "Deaths" : 22
       }
     }, 
     {
       "attributes" : {
         "County" : "Iredell County", 
-        "Total" : 2026, 
-        "Deaths" : 17
+        "Total" : 2050, 
+        "Deaths" : 18
       }
     }, 
     {
       "attributes" : {
         "County" : "Rowan County", 
-        "Total" : 2390, 
-        "Deaths" : 51
+        "Total" : 2412, 
+        "Deaths" : 53
       }
     }, 
     {
       "attributes" : {
         "County" : "Lincoln County", 
-        "Total" : 939, 
+        "Total" : 952, 
         "Deaths" : 10
       }
     }, 
     {
       "attributes" : {
         "County" : "Mecklenburg County", 
-        "Total" : 23318, 
-        "Deaths" : 259
+        "Total" : 23434, 
+        "Deaths" : 262
       }
     }, 
     {
       "attributes" : {
         "County" : "Cabarrus County", 
-        "Total" : 2828, 
+        "Total" : 2840, 
         "Deaths" : 50
       }
     }, 
     {
       "attributes" : {
         "County" : "Gaston County", 
-        "Total" : 3636, 
+        "Total" : 3655, 
         "Deaths" : 58
       }
     }
